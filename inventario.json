@@ -1,60 +1,62 @@
-{
-  "fruteria": [
-    {
-      "fruta": [
-        {
-          "nombre": "Manzana",
-          "cantidad": 10
-        },
-        {
-          "nombre": "Pera",
-          "cantidad": 20
-        },
-        {
-          "nombre": "Naranja",
-          "cantidad": 30
-        }
-      ]
-    },
-    {
-      "verdura": [
-        {
-          "nombre": "Lechuga",
-          "cantidad": 80
-        },
-        {
-          "nombre": "Tomate",
-          "cantidad": 15
-        },
-        {
-          "nombre": "Pepino",
-          "cantidad": 50
-        }
-      ]
-    }
-  ],
-  "limpieza": [
-    {
-      "hogar": [
-        {
-          "nombre": "Trapos",
-          "cantidad": 43
-        },
-        {
-          "nombre": "Pastillas lavavajillas",
-          "cantidad": 98
-        }
-      ],
-      "personal": [
-        {
-          "nombre": "Gel",
-          "cantidad": 32
-        },
-        {
-          "nombre": "Cepillo de dientes",
-          "cantidad": 34
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "fruteria": [
+      {
+        "fruta": [
+          {
+            "nombre": "Manzana",
+            "cantidad": 10
+          },
+          {
+            "nombre": "Pera",
+            "cantidad": 20
+          },
+          {
+            "nombre": "Naranja",
+            "cantidad": 30
+          }
+        ]
+      },
+      {
+        "verdura": [
+          {
+            "nombre": "Lechuga",
+            "cantidad": 80
+          },
+          {
+            "nombre": "Tomate",
+            "cantidad": 15
+          },
+          {
+            "nombre": "Pepino",
+            "cantidad": 50
+          }
+        ]
+      }
+    ],
+    "limpieza": [
+      {
+        "hogar": [
+          {
+            "nombre": "Trapos",
+            "cantidad": 43
+          },
+          {
+            "nombre": "Pastillas lavavajillas",
+            "cantidad": 98
+          }
+        ],
+        "personal": [
+          {
+            "nombre": "Gel",
+            "cantidad": 32
+          },
+          {
+            "nombre": "Cepillo de dientes",
+            "cantidad": 34
+          }
+        ]
+      }
+    ]
+  }
+]
