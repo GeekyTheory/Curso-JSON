@@ -3,7 +3,7 @@
     "fruta": [
       {
         "nombre": "Manzana",
-        "cantidad": 10
+        "cantidad": 50
       },
       {
         "nombre": "Pera",
@@ -12,6 +12,10 @@
       {
         "nombre": "Naranja",
         "cantidad": 30
+      },
+      {
+        "nombre": "Fresa",
+        "cantidad": 50
       }
     ],
     "verdura": [
